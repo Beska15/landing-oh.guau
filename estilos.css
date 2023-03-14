@@ -101,8 +101,6 @@ nav a{
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 0px;
-    padding: 0 auto;
     color: white;
     font-family: 'Times New Roman';
     font-size: 40px;
