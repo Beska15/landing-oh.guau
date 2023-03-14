@@ -77,10 +77,10 @@ nav a{
     background-position: center center;
     background-size: cover;
     height: 760px;
-    widht: 100%;
+    width: 100%;
 }
 .header{
-    width: 670px;
+    width: 100%;
     height: 318px;
     margin: 131px 325px 223px 325px;
     padding: 20px 40px;
